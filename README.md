@@ -1,5 +1,6 @@
 # binance-real-time-quotes-vue
 # A simple example binance realtime quotes with Vue.js
+# https://atkisai.github.io/binance-real-time-quotes-vue/
 
 ## Project setup
 ```
