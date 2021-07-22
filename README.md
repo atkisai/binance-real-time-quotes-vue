@@ -1,4 +1,5 @@
-# myapp2
+# binance-real-time-quotes-vue
+# A simple example binance realtime quotes with Vue.js
 
 ## Project setup
 ```
